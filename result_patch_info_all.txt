@@ -1,0 +1,1647 @@
+Instance ID: astropy__astropy-12907
+File: astropy/modeling/separable.py
+Changes:
+  Lines 242-248 in function _cstack
+----------------------------------------
+Instance ID: astropy__astropy-14182
+File: astropy/io/ascii/rst.py
+Changes:
+  Lines 27-32 in function get_fixedwidth_params
+  Lines 38-66
+  Lines 73-87 in function __init__
+----------------------------------------
+Instance ID: astropy__astropy-14365
+File: astropy/io/ascii/qdp.py
+Changes:
+  Lines 68-74 in function _line_type
+  Lines 306-312 in function _get_tables_from_qdp_file
+----------------------------------------
+Instance ID: astropy__astropy-14995
+File: astropy/nddata/mixins/ndarithmetic.py
+Changes:
+  Lines 520-529 in function _arithmetic_mask
+----------------------------------------
+Instance ID: astropy__astropy-6938
+File: astropy/io/fits/fitsrec.py
+Changes:
+  Lines 1261-1267 in function _scale_back_ascii
+----------------------------------------
+Instance ID: astropy__astropy-7746
+File: astropy/wcs/wcs.py
+Changes:
+  Lines 1212-1220 in function _array_converter
+  Lines 1238-1245 in function _return_single_array
+----------------------------------------
+Instance ID: django__django-10914
+File: django/conf/global_settings.py
+Changes:
+  Lines 304-310 in function gettext_noop
+----------------------------------------
+Instance ID: django__django-10924
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 1709-1715 in function get_prep_value
+----------------------------------------
+Instance ID: django__django-11001
+File: django/db/models/sql/compiler.py
+Changes:
+  Lines 32-39 in function __init__
+----------------------------------------
+Instance ID: django__django-11019
+File: django/forms/widgets.py
+Changes:
+  Lines 6-26
+  Lines 64-78 in function __str__
+  Lines 113-149 in function __getitem__
+----------------------------------------
+Instance ID: django__django-11039
+File: django/core/management/commands/sqlmigrate.py
+Changes:
+  Lines 55-63 in function handle
+----------------------------------------
+Instance ID: django__django-11049
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 1587-1593
+----------------------------------------
+Instance ID: django__django-11099
+File: django/contrib/auth/validators.py
+Changes:
+  Lines 7-13
+  Lines 17-23
+----------------------------------------
+Instance ID: django__django-11133
+File: django/http/response.py
+Changes:
+  Lines 229-235 in function make_bytes
+----------------------------------------
+Instance ID: django__django-11179
+File: django/db/models/deletion.py
+Changes:
+  Lines 277-283 in function delete
+----------------------------------------
+Instance ID: django__django-11283
+File: django/contrib/auth/migrations/0011_update_proxy_permissions.py
+Changes:
+  Lines 1-18 in function update_proxy_model_permissions
+  Lines 20-26 in function update_proxy_model_permissions
+  Lines 38-53 in function update_proxy_model_permissions
+----------------------------------------
+Instance ID: django__django-11422
+File: django/utils/autoreload.py
+Changes:
+  Lines 114-128 in function iter_modules_and_files
+----------------------------------------
+Instance ID: django__django-11564
+File: django/conf/__init__.py
+Changes:
+  Lines 15-22
+  Lines 110-135 in function configure
+  Lines 149-162 in function PASSWORD_RESET_TIMEOUT_DAYS
+----------------------------------------
+Instance ID: django__django-11583
+File: django/utils/autoreload.py
+Changes:
+  Lines 143-152 in function iter_modules_and_files
+----------------------------------------
+Instance ID: django__django-11620
+File: django/views/debug.py
+Changes:
+  Lines 5-14
+  Lines 483-489 in function technical_404_response
+----------------------------------------
+Instance ID: django__django-11630
+File: django/core/checks/model_checks.py
+Changes:
+  Lines 4-11
+  Lines 36-60 in function check_all_models
+----------------------------------------
+Instance ID: django__django-11742
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 257-263 in function is_value
+  Lines 271-302 in function is_value
+----------------------------------------
+Instance ID: django__django-11797
+File: django/db/models/lookups.py
+Changes:
+  Lines 262-270 in function process_rhs
+----------------------------------------
+Instance ID: django__django-11815
+File: django/db/migrations/serializer.py
+Changes:
+  Lines 120-129 in function serialize
+----------------------------------------
+Instance ID: django__django-11848
+File: django/utils/http.py
+Changes:
+  Lines 176-189 in function parse_http_date
+----------------------------------------
+Instance ID: django__django-11905
+File: django/db/models/lookups.py
+Changes:
+  Lines 1-6
+  Lines 10-16
+  Lines 465-481 in function as_sql
+----------------------------------------
+Instance ID: django__django-11910
+File: django/db/migrations/autodetector.py
+Changes:
+  Lines 927-936 in function generate_altered_fields
+----------------------------------------
+Instance ID: django__django-11964
+File: django/db/models/enums.py
+Changes:
+  Lines 60-72 in function values
+----------------------------------------
+Instance ID: django__django-11999
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 763-774 in function contribute_to_class
+----------------------------------------
+Instance ID: django__django-12113
+File: django/db/backends/sqlite3/creation.py
+Changes:
+  Lines 98-103 in function test_db_signature
+----------------------------------------
+Instance ID: django__django-12125
+File: django/db/migrations/serializer.py
+Changes:
+  Lines 269-275 in function serialize
+----------------------------------------
+Instance ID: django__django-12184
+File: django/urls/resolvers.py
+Changes:
+  Lines 158-166 in function match
+----------------------------------------
+Instance ID: django__django-12284
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 764-774 in function contribute_to_class
+----------------------------------------
+Instance ID: django__django-12286
+File: django/core/checks/translation.py
+Changes:
+  Lines 1-5
+  Lines 56-64 in function check_setting_languages_bidi
+----------------------------------------
+Instance ID: django__django-12308
+File: django/contrib/admin/utils.py
+Changes:
+  Lines 398-408 in function display_for_field
+----------------------------------------
+Instance ID: django__django-12453
+File: django/db/backends/base/creation.py
+Changes:
+  Lines 6-12
+  Lines 127-142 in function deserialize_db_from_string
+----------------------------------------
+Instance ID: django__django-12470
+File: django/db/models/sql/compiler.py
+Changes:
+  Lines 709-717 in function find_ordering_name
+----------------------------------------
+Instance ID: django__django-12497
+File: django/db/models/fields/related.py
+Changes:
+  Lines 1309-1315 in function _check_relationship_model
+  Lines 1329-1335 in function _check_relationship_model
+----------------------------------------
+Instance ID: django__django-12589
+File: django/db/models/sql/query.py
+Changes:
+  Lines 1927-1945 in function set_group_by
+  Lines 1953-1959 in function set_group_by
+----------------------------------------
+Instance ID: django__django-12700
+File: django/views/debug.py
+Changes:
+  Lines 90-99 in function cleanse_setting
+----------------------------------------
+Instance ID: django__django-12708
+File: django/db/backends/base/schema.py
+Changes:
+  Lines 393-404 in function alter_index_together
+----------------------------------------
+Instance ID: django__django-12747
+File: django/db/models/deletion.py
+Changes:
+  Lines 408-415 in function delete
+  Lines 427-434 in function delete
+----------------------------------------
+Instance ID: django__django-12856
+File: django/db/models/base.py
+Changes:
+  Lines 1926-1937 in function _check_constraints
+----------------------------------------
+Instance ID: django__django-12908
+File: django/db/models/query.py
+Changes:
+  Lines 1138-1144 in function distinct
+----------------------------------------
+Instance ID: django__django-12915
+File: django/contrib/staticfiles/handlers.py
+Changes:
+  Lines 1-8
+  Lines 54-65 in function get_response
+----------------------------------------
+Instance ID: django__django-12983
+File: django/utils/text.py
+Changes:
+  Lines 393-410 in function unescape_string_literal
+----------------------------------------
+Instance ID: django__django-13028
+File: django/db/models/sql/query.py
+Changes:
+  Lines 1124-1133 in function check_related_objects
+----------------------------------------
+Instance ID: django__django-13033
+File: django/db/models/sql/compiler.py
+Changes:
+  Lines 727-738 in function find_ordering_name
+----------------------------------------
+Instance ID: django__django-13158
+File: django/db/models/sql/query.py
+Changes:
+  Lines 305-311 in function clone
+  Lines 1778-1785 in function split_exclude
+----------------------------------------
+Instance ID: django__django-13220
+File: django/core/exceptions.py
+Changes:
+  Lines 1-9
+  Lines 185-207 in function __str__
+----------------------------------------
+Instance ID: django__django-13230
+File: django/contrib/syndication/views.py
+Changes:
+  Lines 212-218 in function get_feed
+----------------------------------------
+Instance ID: django__django-13265
+File: django/db/migrations/autodetector.py
+Changes:
+  Lines 182-193 in function _detect_changes
+  Lines 613-630 in function generate_created_models
+  Lines 666-671 in function generate_created_models
+----------------------------------------
+Instance ID: django__django-13315
+File: django/forms/models.py
+Changes:
+  Lines 97-114 in function model_to_dict
+----------------------------------------
+Instance ID: django__django-13321
+File: django/contrib/sessions/backends/base.py
+Changes:
+  Lines 121-135 in function decode
+----------------------------------------
+Instance ID: django__django-13401
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 516-552 in function clone
+----------------------------------------
+Instance ID: django__django-13447
+File: django/contrib/admin/sites.py
+Changes:
+  Lines 461-467 in function _build_app_dict
+----------------------------------------
+Instance ID: django__django-13448
+File: django/db/backends/base/creation.py
+Changes:
+  Lines 58-71 in function create_test_db
+  Lines 76-84 in function create_test_db
+----------------------------------------
+Instance ID: django__django-13551
+File: django/contrib/auth/tokens.py
+Changes:
+  Lines 78-86 in function _make_token_with_timestamp
+  Lines 94-102 in function _make_hash_value
+----------------------------------------
+Instance ID: django__django-13590
+File: django/db/models/sql/query.py
+Changes:
+  Lines 1077-1090 in function resolve_lookup_value
+----------------------------------------
+Instance ID: django__django-13658
+File: django/core/management/__init__.py
+Changes:
+  Lines 344-355 in function execute
+----------------------------------------
+Instance ID: django__django-13660
+File: django/core/management/commands/shell.py
+Changes:
+  Lines 84-96 in function python
+----------------------------------------
+Instance ID: django__django-13710
+File: django/contrib/admin/options.py
+Changes:
+  Lines 2037-2049 in function __init__
+----------------------------------------
+Instance ID: django__django-13757
+File: django/db/models/fields/json.py
+Changes:
+  Lines 366-390 in function process_rhs
+----------------------------------------
+Instance ID: django__django-13768
+File: django/dispatch/dispatcher.py
+Changes:
+  Lines 1-4
+  Lines 6-13 in function _make_id
+  Lines 211-222 in function send_robust
+----------------------------------------
+Instance ID: django__django-13925
+File: django/db/models/base.py
+Changes:
+  Lines 1299-1309 in function check
+----------------------------------------
+Instance ID: django__django-13933
+File: django/forms/models.py
+Changes:
+  Lines 1284-1294 in function to_python
+----------------------------------------
+Instance ID: django__django-13964
+File: django/db/models/base.py
+Changes:
+  Lines 933-939 in function _prepare_related_fields_for_save
+----------------------------------------
+Instance ID: django__django-14016
+File: django/db/models/query_utils.py
+Changes:
+  Lines 5-10
+  Lines 45-56 in function _combine
+----------------------------------------
+Instance ID: django__django-14017
+File: django/db/models/query_utils.py
+Changes:
+  Lines 40-46 in function __init__
+----------------------------------------
+Instance ID: django__django-14155
+File: django/urls/resolvers.py
+Changes:
+  Lines 59-74 in function __getitem__
+----------------------------------------
+Instance ID: django__django-14238
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 2524-2530 in function __instancecheck__
+----------------------------------------
+Instance ID: django__django-14382
+File: django/core/management/templates.py
+Changes:
+  Lines 73-81 in function handle
+----------------------------------------
+Instance ID: django__django-14411
+File: django/contrib/auth/forms.py
+Changes:
+  Lines 50-58 in function get_context
+----------------------------------------
+Instance ID: django__django-14534
+File: django/forms/boundfield.py
+Changes:
+  Lines 277-283 in function template_name
+----------------------------------------
+Instance ID: django__django-14580
+File: django/db/migrations/serializer.py
+Changes:
+  Lines 273-279 in function _format
+----------------------------------------
+Instance ID: django__django-14608
+File: django/forms/formsets.py
+Changes:
+  Lines 333-339 in function full_clean
+  Lines 380-389 in function full_clean
+----------------------------------------
+Instance ID: django__django-14667
+File: django/db/models/sql/query.py
+Changes:
+  Lines 2086-2097 in function add_deferred_loading
+----------------------------------------
+Instance ID: django__django-14672
+File: django/db/models/fields/reverse_related.py
+Changes:
+  Lines 310-316 in function __init__
+----------------------------------------
+Instance ID: django__django-14730
+File: django/db/models/fields/related.py
+Changes:
+  Lines 1258-1273 in function _check_ignored_options
+----------------------------------------
+Instance ID: django__django-14752
+File: django/contrib/admin/views/autocomplete.py
+Changes:
+  Lines 11-18 in function get
+  Lines 27-45 in function get
+----------------------------------------
+Instance ID: django__django-14787
+File: django/utils/decorators.py
+Changes:
+  Lines 37-43 in function _wrapper
+----------------------------------------
+Instance ID: django__django-14855
+File: django/contrib/admin/helpers.py
+Changes:
+  Lines 209-219 in function get_admin_url
+----------------------------------------
+Instance ID: django__django-14915
+File: django/forms/models.py
+Changes:
+  Lines 1166-1174 in function __init__
+----------------------------------------
+Instance ID: django__django-14997
+File: django/db/backends/ddl_references.py
+Changes:
+  Lines 212-218 in function __init__
+----------------------------------------
+Instance ID: django__django-14999
+File: django/db/migrations/operations/models.py
+Changes:
+  Lines 320-332 in function database_forwards
+----------------------------------------
+Instance ID: django__django-15061
+File: django/forms/widgets.py
+Changes:
+  Lines 849-855 in function get_context
+----------------------------------------
+Instance ID: django__django-15202
+File: django/core/validators.py
+Changes:
+  Lines 108-123 in function __call__
+  Lines 128-134 in function __call__
+  Lines 140-146 in function __call__
+----------------------------------------
+Instance ID: django__django-15213
+File: django/db/models/fields/__init__.py
+Changes:
+  Lines 994-1008 in function formfield
+----------------------------------------
+Instance ID: django__django-15252
+File: django/db/migrations/executor.py
+Changes:
+  Lines 96-107 in function migrate
+----------------------------------------
+Instance ID: django__django-15320
+File: django/db/models/expressions.py
+Changes:
+  Lines 1149-1156 in function __init__
+----------------------------------------
+Instance ID: django__django-15347
+File: django/contrib/messages/storage/cookie.py
+Changes:
+  Lines 19-25 in function default
+----------------------------------------
+Instance ID: django__django-15388
+File: django/template/autoreload.py
+Changes:
+  Lines 48-55 in function watch_for_template_changes
+----------------------------------------
+Instance ID: django__django-15400
+File: django/utils/functional.py
+Changes:
+  Lines 432-443 in function __deepcopy__
+----------------------------------------
+Instance ID: django__django-15498
+File: django/views/static.py
+Changes:
+  Lines 129-142 in function was_modified_since
+----------------------------------------
+Instance ID: django__django-15695
+File: django/db/migrations/operations/models.py
+Changes:
+  Lines 960-968 in function database_forwards
+----------------------------------------
+Instance ID: django__django-15738
+File: django/db/migrations/autodetector.py
+Changes:
+  Lines 1022-1030 in function generate_added_fields
+----------------------------------------
+Instance ID: django__django-15781
+File: django/core/management/base.py
+Changes:
+  Lines 286-295 in function create_parser
+----------------------------------------
+Instance ID: django__django-15789
+File: django/utils/html.py
+Changes:
+  Lines 59-65 in function escapejs
+  Lines 67-75 in function json_script
+----------------------------------------
+Instance ID: django__django-15790
+File: django/core/checks/templates.py
+Changes:
+  Lines 50-64 in function check_string_if_invalid_is_string
+  Lines 66-72 in function check_for_template_tags_with_the_same_name
+----------------------------------------
+Instance ID: django__django-15814
+File: django/db/models/sql/query.py
+Changes:
+  Lines 748-754 in function deferred_to_data
+----------------------------------------
+Instance ID: django__django-15819
+File: django/core/management/commands/inspectdb.py
+Changes:
+  Lines 127-140 in function table2model
+  Lines 188-199 in function table2model
+----------------------------------------
+Instance ID: django__django-15851
+File: django/db/backends/postgresql/client.py
+Changes:
+  Lines 32-40 in function settings_to_cmd_args_env
+----------------------------------------
+Instance ID: django__django-15902
+File: django/forms/formsets.py
+Changes:
+  Lines 32-39
+----------------------------------------
+Instance ID: django__django-15996
+File: django/db/migrations/serializer.py
+Changes:
+  Lines 16-22
+  Lines 125-145 in function serialize
+----------------------------------------
+Instance ID: django__django-16041
+File: django/forms/formsets.py
+Changes:
+  Lines 257-271 in function extra_forms
+----------------------------------------
+Instance ID: django__django-16046
+File: django/utils/numberformat.py
+Changes:
+  Lines 25-32 in function format
+----------------------------------------
+Instance ID: django__django-16139
+File: django/contrib/auth/forms.py
+Changes:
+  Lines 163-171 in function __init__
+----------------------------------------
+Instance ID: django__django-16229
+File: django/forms/boundfield.py
+Changes:
+  Lines 96-112 in function as_widget
+----------------------------------------
+Instance ID: django__django-16255
+File: django/contrib/sitemaps/__init__.py
+Changes:
+  Lines 167-173 in function get_latest_lastmod
+----------------------------------------
+Instance ID: django__django-16379
+File: django/core/cache/backends/filebased.py
+Changes:
+  Lines 90-100 in function _delete
+----------------------------------------
+Instance ID: django__django-16400
+File: django/contrib/auth/management/__init__.py
+Changes:
+  Lines 95-110 in function create_permissions
+----------------------------------------
+Instance ID: django__django-16408
+File: django/db/models/sql/compiler.py
+Changes:
+  Lines 1274-1282 in function local_setter
+  Lines 1298-1308 in function remote_setter
+----------------------------------------
+Instance ID: django__django-16527
+File: django/contrib/admin/templatetags/admin_modify.py
+Changes:
+  Lines 100-106 in function submit_row
+----------------------------------------
+Instance ID: django__django-16595
+File: django/db/migrations/operations/fields.py
+Changes:
+  Lines 247-255 in function migration_name_fragment
+----------------------------------------
+Instance ID: django__django-16816
+File: django/contrib/admin/checks.py
+Changes:
+  Lines 916-925 in function _check_list_display_item
+----------------------------------------
+Instance ID: django__django-16820
+File: django/db/migrations/operations/models.py
+Changes:
+  Lines 303-373 in function reduce
+----------------------------------------
+Instance ID: django__django-16873
+File: django/template/defaultfilters.py
+Changes:
+  Lines 586-594 in function join
+----------------------------------------
+Instance ID: django__django-16910
+File: django/db/models/sql/query.py
+Changes:
+  Lines 779-791 in function _get_only_select_mask
+----------------------------------------
+Instance ID: django__django-17051
+File: django/db/models/query.py
+Changes:
+  Lines 1837-1853 in function _batched_insert
+----------------------------------------
+Instance ID: django__django-17087
+File: django/db/migrations/serializer.py
+Changes:
+  Lines 168-174 in function serialize
+----------------------------------------
+Instance ID: matplotlib__matplotlib-18869
+File: lib/matplotlib/__init__.py
+Changes:
+  Lines 129-188 in function __getattr__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-22711
+File: lib/matplotlib/widgets.py
+Changes:
+  Lines 813-822 in function _update_val_from_pos
+  Lines 839-854 in function _update
+  Lines 912-933 in function set_val
+----------------------------------------
+Instance ID: matplotlib__matplotlib-22835
+File: lib/matplotlib/artist.py
+Changes:
+  Lines 12-18
+  Lines 1304-1323 in function format_cursor_data
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23299
+File: lib/matplotlib/__init__.py
+Changes:
+  Lines 1059-1066 in function rc_context
+  Lines 1089-1096 in function rc_context
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23314
+File: lib/mpl_toolkits/mplot3d/axes3d.py
+Changes:
+  Lines 387-394 in function apply_aspect
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23476
+File: lib/matplotlib/figure.py
+Changes:
+  Lines 3023-3031 in function __getstate__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23562
+File: lib/mpl_toolkits/mplot3d/art3d.py
+Changes:
+  Lines 867-885 in function set_alpha
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23563
+File: lib/mpl_toolkits/mplot3d/art3d.py
+Changes:
+  Lines 171-177 in function __init__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23913
+File: lib/matplotlib/legend.py
+Changes:
+  Lines 286-294 in function _update_bbox_to_anchor
+  Lines 345-352 in function __init__
+  Lines 541-549 in function val_or_rc
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23964
+File: lib/matplotlib/backends/backend_ps.py
+Changes:
+  Lines 665-673 in function draw_text
+----------------------------------------
+Instance ID: matplotlib__matplotlib-23987
+File: lib/matplotlib/figure.py
+Changes:
+  Lines 2426-2437 in function __init__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-24149
+File: lib/matplotlib/axes/_axes.py
+Changes:
+  Lines 2182-2200 in function _convert_dx
+----------------------------------------
+Instance ID: matplotlib__matplotlib-24265
+File: lib/matplotlib/style/core.py
+Changes:
+  Lines 43-74 in function _remove_blacklisted_style_params
+  Lines 139-147 in function use
+  Lines 248-273 in function update_nested_dict
+----------------------------------------
+Instance ID: matplotlib__matplotlib-24334
+File: lib/matplotlib/axis.py
+Changes:
+  Lines 2029-2037 in function set_ticks
+----------------------------------------
+Instance ID: matplotlib__matplotlib-24970
+File: lib/matplotlib/colors.py
+Changes:
+  Lines 715-731 in function __call__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-25079
+File: lib/matplotlib/colors.py
+Changes:
+  Lines 1362-1373 in function inverse
+----------------------------------------
+Instance ID: matplotlib__matplotlib-25311
+File: lib/matplotlib/offsetbox.py
+Changes:
+  Lines 1505-1510 in function __init__
+  Lines 1513-1521 in function __init__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-25332
+File: lib/matplotlib/cbook.py
+Changes:
+  Lines 788-806 in function __init__
+----------------------------------------
+Instance ID: matplotlib__matplotlib-25433
+File: lib/matplotlib/figure.py
+Changes:
+  Lines 931-937 in function _break_share_link
+----------------------------------------
+Instance ID: matplotlib__matplotlib-25442
+File: lib/matplotlib/offsetbox.py
+Changes:
+  Lines 1500-1522 in function __init__
+  Lines 1543-1554 in function on_pick
+  Lines 1561-1568 in function _check_still_parented
+----------------------------------------
+Instance ID: matplotlib__matplotlib-25498
+File: lib/matplotlib/colorbar.py
+Changes:
+  Lines 301-306 in function __init__
+  Lines 1096-1105 in function _process_values
+----------------------------------------
+Instance ID: matplotlib__matplotlib-26011
+File: lib/matplotlib/axis.py
+Changes:
+  Lines 1241-1253 in function _set_lim
+----------------------------------------
+Instance ID: matplotlib__matplotlib-26020
+File: lib/mpl_toolkits/axes_grid1/axes_grid.py
+Changes:
+  Lines 1-6
+  Lines 8-27 in function _tick_only
+----------------------------------------
+Instance ID: mwaskom__seaborn-2848
+File: seaborn/_oldcore.py
+Changes:
+  Lines 149-161 in function _lookup_single
+----------------------------------------
+Instance ID: mwaskom__seaborn-3010
+File: seaborn/_stats/regression.py
+Changes:
+  Lines 38-47 in function _fit_predict
+----------------------------------------
+Instance ID: mwaskom__seaborn-3190
+File: seaborn/_core/scales.py
+Changes:
+  Lines 346-352 in function _setup
+----------------------------------------
+Instance ID: mwaskom__seaborn-3407
+File: seaborn/axisgrid.py
+Changes:
+  Lines 1472-1479 in function map_diag
+----------------------------------------
+Instance ID: pallets__flask-4045
+File: src/flask/blueprints.py
+Changes:
+  Lines 188-197 in function __init__
+  Lines 364-375 in function add_url_rule
+----------------------------------------
+Instance ID: pallets__flask-4992
+File: src/flask/config.py
+Changes:
+  Lines 234-240 in function from_file
+  Lines 245-252 in function from_file
+  Lines 255-272 in function from_file
+----------------------------------------
+Instance ID: pallets__flask-5063
+File: src/flask/cli.py
+Changes:
+  Lines 9-15
+  Lines 989-1050 in function shell_command
+----------------------------------------
+Instance ID: psf__requests-1963
+File: requests/sessions.py
+Changes:
+  Lines 168-178 in function resolve_redirects
+----------------------------------------
+Instance ID: psf__requests-2148
+File: requests/models.py
+Changes:
+  Lines 9-15
+  Lines 23-29
+  Lines 641-648 in function generate
+----------------------------------------
+Instance ID: psf__requests-2317
+File: requests/sessions.py
+Changes:
+  Lines 13-19
+  Lines 425-431 in function request
+----------------------------------------
+Instance ID: psf__requests-2674
+File: requests/adapters.py
+Changes:
+  Lines 19-25
+  Lines 422-430 in function send
+----------------------------------------
+Instance ID: psf__requests-3362
+File: requests/utils.py
+Changes:
+  Lines 358-377 in function get_encoding_from_headers
+----------------------------------------
+Instance ID: psf__requests-863
+File: requests/models.py
+Changes:
+  Lines 462-471 in function path_url
+----------------------------------------
+Instance ID: pydata__xarray-3364
+File: xarray/core/concat.py
+Changes:
+  Lines 312-320 in function _dataset_concat
+----------------------------------------
+Instance ID: pydata__xarray-4094
+File: xarray/core/dataarray.py
+Changes:
+  Lines 1961-1967 in function to_unstacked_dataset
+----------------------------------------
+Instance ID: pydata__xarray-4248
+File: xarray/core/formatting.py
+Changes:
+  Lines 261-268 in function inline_variable_array_repr
+----------------------------------------
+Instance ID: pydata__xarray-4493
+File: xarray/core/variable.py
+Changes:
+  Lines 120-135 in function as_variable
+----------------------------------------
+Instance ID: pydata__xarray-5131
+File: xarray/core/groupby.py
+Changes:
+  Lines 436-442 in function __iter__
+----------------------------------------
+Instance ID: pylint-dev__pylint-5859
+File: pylint/checkers/misc.py
+Changes:
+  Lines 121-129 in function open
+----------------------------------------
+Instance ID: pylint-dev__pylint-6506
+File: pylint/config/config_initialization.py
+Changes:
+  Lines 81-87 in function _config_initialization
+----------------------------------------
+Instance ID: pylint-dev__pylint-7080
+File: pylint/lint/expand_modules.py
+Changes:
+  Lines 52-58 in function _is_ignored_file
+----------------------------------------
+Instance ID: pylint-dev__pylint-7114
+File: pylint/lint/expand_modules.py
+Changes:
+  Lines 82-91 in function expand_modules
+  Lines 105-111 in function expand_modules
+----------------------------------------
+Instance ID: pylint-dev__pylint-7228
+File: pylint/config/argument.py
+Changes:
+  Lines 99-118 in function _py_version_transformer
+  Lines 139-145 in function _regexp_paths_csv_transfomer
+----------------------------------------
+Instance ID: pylint-dev__pylint-7993
+File: pylint/reporters/text.py
+Changes:
+  Lines 175-181 in function on_set_current_module
+----------------------------------------
+Instance ID: pytest-dev__pytest-11143
+File: src/_pytest/assertion/rewrite.py
+Changes:
+  Lines 676-682 in function run
+----------------------------------------
+Instance ID: pytest-dev__pytest-11148
+File: src/_pytest/pathlib.py
+Changes:
+  Lines 523-530 in function import_path
+----------------------------------------
+Instance ID: pytest-dev__pytest-5103
+File: src/_pytest/assertion/rewrite.py
+Changes:
+  Lines 964-971 in function visit_Call_35
+  Lines 989-1015 in function visit_Call_35
+  Lines 1020-1027 in function visit_Call_legacy
+----------------------------------------
+Instance ID: pytest-dev__pytest-5221
+File: src/_pytest/python.py
+Changes:
+  Lines 1342-1360 in function _showfixtures_main
+----------------------------------------
+Instance ID: pytest-dev__pytest-5227
+File: src/_pytest/logging.py
+Changes:
+  Lines 15-21
+----------------------------------------
+Instance ID: pytest-dev__pytest-5413
+File: src/_pytest/_code/code.py
+Changes:
+  Lines 534-539 in function getrepr
+----------------------------------------
+Instance ID: pytest-dev__pytest-5495
+File: src/_pytest/assertion/util.py
+Changes:
+  Lines 254-291 in function _compare_eq_iterable
+----------------------------------------
+Instance ID: pytest-dev__pytest-5692
+File: src/_pytest/junitxml.py
+Changes:
+  Lines 10-20
+  Lines 668-675 in function pytest_sessionfinish
+----------------------------------------
+Instance ID: pytest-dev__pytest-6116
+File: src/_pytest/main.py
+Changes:
+  Lines 109-115 in function pytest_addoption
+----------------------------------------
+Instance ID: pytest-dev__pytest-7168
+File: src/_pytest/_io/saferepr.py
+Changes:
+  Lines 20-26 in function _format_repr_exception
+----------------------------------------
+Instance ID: pytest-dev__pytest-7220
+File: src/_pytest/nodes.py
+Changes:
+  Lines 29-35
+  Lines 362-375 in function _repr_failure_py
+----------------------------------------
+Instance ID: pytest-dev__pytest-7373
+File: src/_pytest/mark/evaluate.py
+Changes:
+  Lines 10-23 in function compiled_eval
+  Lines 87-93 in function _istrue
+----------------------------------------
+Instance ID: pytest-dev__pytest-7432
+File: src/_pytest/skipping.py
+Changes:
+  Lines 291-298 in function pytest_runtest_makereport
+----------------------------------------
+Instance ID: pytest-dev__pytest-7490
+File: src/_pytest/skipping.py
+Changes:
+  Lines 231-244 in function evaluate_xfail_marks
+  Lines 247-262 in function pytest_runtest_call
+----------------------------------------
+Instance ID: pytest-dev__pytest-8365
+File: src/_pytest/tmpdir.py
+Changes:
+  Lines 115-126 in function getbasetemp
+----------------------------------------
+Instance ID: pytest-dev__pytest-8906
+File: src/_pytest/python.py
+Changes:
+  Lines 608-617 in function _importtestmodule
+----------------------------------------
+Instance ID: pytest-dev__pytest-9359
+File: src/_pytest/_code/source.py
+Changes:
+  Lines 149-159 in function get_statement_startend2
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-10297
+File: sklearn/linear_model/ridge.py
+Changes:
+  Lines 1212-1229
+  Lines 1301-1319
+  Lines 1338-1348 in function __init__
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-10508
+File: sklearn/preprocessing/label.py
+Changes:
+  Lines 126-134 in function transform
+  Lines 150-159 in function inverse_transform
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-10949
+File: sklearn/utils/validation.py
+Changes:
+  Lines 466-477 in function check_array
+  Lines 587-602 in function check_array
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-11040
+File: sklearn/neighbors/base.py
+Changes:
+  Lines 258-269 in function _fit
+  Lines 333-349
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-11281
+File: sklearn/mixture/base.py
+Changes:
+  Lines 172-178 in function _initialize
+  Lines 188-219 in function fit
+  Lines 266-272 in function fit
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-12471
+File: sklearn/preprocessing/_encoders.py
+Changes:
+  Lines 110-123 in function _transform
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13142
+File: sklearn/mixture/base.py
+Changes:
+  Lines 257-262 in function fit_predict
+  Lines 268-278 in function fit_predict
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13241
+File: sklearn/decomposition/kernel_pca.py
+Changes:
+  Lines 8-14
+  Lines 211-220 in function _fit_transform
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13439
+File: sklearn/pipeline.py
+Changes:
+  Lines 199-210 in function _iter
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13496
+File: sklearn/ensemble/iforest.py
+Changes:
+  Lines 120-131
+  Lines 179-186 in function __init__
+  Lines 192-198 in function __init__
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13497
+File: sklearn/feature_selection/mutual_info_.py
+Changes:
+  Lines 10-16
+  Lines 247-262 in function _estimate_mi
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13584
+File: sklearn/utils/_pprint.py
+Changes:
+  Lines 95-101 in function _changed_params
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-13779
+File: sklearn/ensemble/voting.py
+Changes:
+  Lines 78-85 in function fit
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-14087
+File: sklearn/linear_model/logistic.py
+Changes:
+  Lines 2170-2176 in function fit
+  Lines 2180-2190 in function fit
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-14092
+File: sklearn/neighbors/nca.py
+Changes:
+  Lines 13-19
+  Lines 300-307 in function _validate_params
+  Lines 320-328 in function _validate_params
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-14894
+File: sklearn/svm/base.py
+Changes:
+  Lines 287-300 in function _sparse_fit
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-14983
+File: sklearn/model_selection/_split.py
+Changes:
+  Lines 1163-1171 in function get_n_splits
+  Lines 2161-2168 in function _build_repr
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-15512
+File: sklearn/cluster/_affinity_propagation.py
+Changes:
+  Lines 194-212 in function affinity_propagation
+  Lines 410-416 in function predict
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-15535
+File: sklearn/metrics/cluster/_supervised.py
+Changes:
+  Lines 43-52 in function check_clusterings
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-25500
+File: sklearn/isotonic.py
+Changes:
+  Lines 360-375 in function fit
+  Lines 390-413 in function transform
+  Lines 421-427 in function predict
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-25570
+File: sklearn/compose/_column_transformer.py
+Changes:
+  Lines 865-873 in function _hstack
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-25638
+File: sklearn/utils/multiclass.py
+Changes:
+  Lines 155-179 in function is_multilabel
+  Lines 313-339 in function type_of_target
+----------------------------------------
+Instance ID: scikit-learn__scikit-learn-25747
+File: sklearn/utils/_set_output.py
+Changes:
+  Lines 34-40 in function _wrap_in_pandas_container
+  Lines 55-60 in function _wrap_in_pandas_container
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-10325
+File: sphinx/ext/autodoc/__init__.py
+Changes:
+  Lines 109-122 in function exclude_members_option
+  Lines 682-692 in function filter_members
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-10451
+File: sphinx/ext/autodoc/typehints.py
+Changes:
+  Lines 115-129 in function modify_field_list
+  Lines 175-193 in function augment_descriptions_with_types
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-11445
+File: sphinx/util/rst.py
+Changes:
+  Lines 10-26
+  Lines 75-81 in function prepend_prolog
+  Lines 86-92 in function prepend_prolog
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-7686
+File: sphinx/ext/autosummary/generate.py
+Changes:
+  Lines 18-24
+  Lines 177-232 in function render
+  Lines 297-304 in function get_modules
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-7738
+File: sphinx/ext/napoleon/docstring.py
+Changes:
+  Lines 318-324 in function _dedent
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-7975
+File: sphinx/environment/adapters/indexentries.py
+Changes:
+  Lines 98-105 in function keyfunc0
+  Lines 107-122 in function keyfunc
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8273
+File: sphinx/builders/manpage.py
+Changes:
+  Lines 24-30
+  Lines 80-91 in function write
+  Lines 120-126 in function setup
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8282
+File: sphinx/ext/autodoc/__init__.py
+Changes:
+  Lines 1240-1248 in function add_directive_header
+  Lines 1476-1482 in function format_signature
+  Lines 1884-1892 in function document_members
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8435
+File: sphinx/ext/autodoc/__init__.py
+Changes:
+  Lines 1702-1709 in function add_directive_header
+  Lines 2094-2101 in function add_directive_header
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8474
+File: sphinx/domains/std.py
+Changes:
+  Lines 852-860 in function _resolve_numref_xref
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8506
+File: sphinx/domains/std.py
+Changes:
+  Lines 43-49
+  Lines 197-207 in function handle_signature
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8595
+File: sphinx/ext/autodoc/__init__.py
+Changes:
+  Lines 1074-1080 in function get_module_members
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8627
+File: sphinx/util/typing.py
+Changes:
+  Lines 10-16
+  Lines 95-103 in function restify
+  Lines 309-317 in function stringify
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8713
+File: sphinx/ext/napoleon/docstring.py
+Changes:
+  Lines 682-694 in function _parse_notes_section
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8721
+File: sphinx/ext/viewcode.py
+Changes:
+  Lines 182-191 in function collect_pages
+----------------------------------------
+Instance ID: sphinx-doc__sphinx-8801
+File: sphinx/ext/autodoc/importer.py
+Changes:
+  Lines 294-328 in function get_class_members
+----------------------------------------
+Instance ID: sympy__sympy-11400
+File: sympy/printing/ccode.py
+Changes:
+  Lines 231-250 in function _print_Symbol
+----------------------------------------
+Instance ID: sympy__sympy-11870
+File: sympy/functions/elementary/trigonometric.py
+Changes:
+  Lines 16-23
+  Lines 402-410 in function _eval_rewrite_as_csc
+  Lines 1794-1800 in function _eval_rewrite_as_jn
+----------------------------------------
+Instance ID: sympy__sympy-11897
+File: sympy/printing/latex.py
+Changes:
+  Lines 235-246 in function _needs_mul_brackets
+----------------------------------------
+Instance ID: sympy__sympy-12171
+File: sympy/printing/mathematica.py
+Changes:
+  Lines 109-117 in function _print_Integral
+----------------------------------------
+Instance ID: sympy__sympy-12236
+File: sympy/polys/domains/polynomialring.py
+Changes:
+  Lines 104-113 in function from_PolynomialRing
+----------------------------------------
+Instance ID: sympy__sympy-12419
+File: sympy/matrices/expressions/matexpr.py
+Changes:
+  Lines 2-13
+  Lines 376-381 in function _eval_derivative
+  Lines 476-487 in function conjugate
+----------------------------------------
+Instance ID: sympy__sympy-12454
+File: sympy/matrices/matrices.py
+Changes:
+  Lines 641-647 in function _eval_is_zero
+  Lines 1112-1118 in function is_upper
+----------------------------------------
+Instance ID: sympy__sympy-12481
+File: sympy/combinatorics/permutations.py
+Changes:
+  Lines 895-902 in function __new__
+----------------------------------------
+Instance ID: sympy__sympy-13031
+File: sympy/matrices/sparse.py
+Changes:
+  Lines 985-994 in function col_join
+  Lines 1193-1202 in function row_join
+----------------------------------------
+Instance ID: sympy__sympy-13043
+File: sympy/integrals/intpoly.py
+Changes:
+  Lines 556-562 in function decompose
+  Lines 569-575 in function decompose
+  Lines 593-599 in function decompose
+----------------------------------------
+Instance ID: sympy__sympy-13146
+File: sympy/core/operations.py
+Changes:
+  Lines 332-338 in function _eval_evalf
+  Lines 343-349 in function _eval_evalf
+----------------------------------------
+Instance ID: sympy__sympy-13177
+File: sympy/core/mod.py
+Changes:
+  Lines 39-46 in function doit
+----------------------------------------
+Instance ID: sympy__sympy-13437
+File: sympy/functions/combinatorial/numbers.py
+Changes:
+  Lines 424-438 in function _bell_incomplete_poly
+----------------------------------------
+Instance ID: sympy__sympy-13471
+File: sympy/core/numbers.py
+Changes:
+  Lines 1042-1052 in function __new__
+----------------------------------------
+Instance ID: sympy__sympy-13480
+File: sympy/functions/elementary/hyperbolic.py
+Changes:
+  Lines 587-593 in function eval
+----------------------------------------
+Instance ID: sympy__sympy-13647
+File: sympy/matrices/common.py
+Changes:
+  Lines 86-92 in function entry
+----------------------------------------
+Instance ID: sympy__sympy-13773
+File: sympy/matrices/common.py
+Changes:
+  Lines 1973-1982 in function __div__
+  Lines 2070-2079 in function __radd__
+----------------------------------------
+Instance ID: sympy__sympy-13895
+File: sympy/core/numbers.py
+Changes:
+  Lines 2248-2256 in function _eval_power
+  Lines 2280-2291 in function _eval_power
+----------------------------------------
+Instance ID: sympy__sympy-13915
+File: sympy/core/mul.py
+Changes:
+  Lines 423-433 in function _gather
+----------------------------------------
+Instance ID: sympy__sympy-13971
+File: sympy/printing/latex.py
+Changes:
+  Lines 1657-1665 in function _print_SeqFormula
+----------------------------------------
+Instance ID: sympy__sympy-14024
+File: sympy/core/numbers.py
+Changes:
+  Lines 1678-1684 in function _eval_power
+  Lines 2219-2225 in function _eval_power
+----------------------------------------
+Instance ID: sympy__sympy-14308
+File: sympy/printing/pretty/pretty.py
+Changes:
+  Lines 931-979 in function _print_BasisDependent
+----------------------------------------
+Instance ID: sympy__sympy-14317
+File: sympy/printing/latex.py
+Changes:
+  Lines 1813-1862 in function _print_PolynomialRingBase
+----------------------------------------
+Instance ID: sympy__sympy-14396
+File: sympy/polys/polyoptions.py
+Changes:
+  Lines 405-411
+  Lines 459-470 in function preprocess
+----------------------------------------
+Instance ID: sympy__sympy-14774
+File: sympy/printing/latex.py
+Changes:
+  Lines 740-746 in function _print_Function
+----------------------------------------
+Instance ID: sympy__sympy-14817
+File: sympy/printing/pretty/pretty.py
+Changes:
+  Lines 825-832 in function _print_MatAdd
+----------------------------------------
+Instance ID: sympy__sympy-15011
+File: sympy/utilities/lambdify.py
+Changes:
+  Lines 700-712 in function _is_safe_ident
+  Lines 724-730 in function _preprocess
+  Lines 738-751 in function _preprocess
+----------------------------------------
+Instance ID: sympy__sympy-15308
+File: sympy/printing/latex.py
+Changes:
+  Lines 289-298 in function _do_exponent
+  Lines 1466-1475 in function _print_Transpose
+----------------------------------------
+Instance ID: sympy__sympy-15345
+File: sympy/printing/mathematica.py
+Changes:
+  Lines 31-38
+  Lines 102-109 in function _print_Function
+----------------------------------------
+Instance ID: sympy__sympy-15346
+File: sympy/simplify/trigsimp.py
+Changes:
+  Lines 1143-1150 in function _futrig
+----------------------------------------
+Instance ID: sympy__sympy-15609
+File: sympy/printing/latex.py
+Changes:
+  Lines 1438-1447 in function _print_MatrixBase
+----------------------------------------
+Instance ID: sympy__sympy-15678
+File: sympy/geometry/util.py
+Changes:
+  Lines 570-588 in function idiff
+----------------------------------------
+Instance ID: sympy__sympy-16106
+File: sympy/printing/mathml.py
+Changes:
+  Lines 1271-1296 in function _print_Lambda
+----------------------------------------
+Instance ID: sympy__sympy-16281
+File: sympy/printing/pretty/pretty.py
+Changes:
+  Lines 491-499 in function _print_Product
+----------------------------------------
+Instance ID: sympy__sympy-16503
+File: sympy/printing/pretty/pretty.py
+Changes:
+  Lines 564-570 in function adjust
+  Lines 619-625 in function adjust
+  Lines 629-639 in function adjust
+----------------------------------------
+Instance ID: sympy__sympy-16792
+File: sympy/utilities/codegen.py
+Changes:
+  Lines 695-705 in function routine
+  Lines 708-715 in function routine
+  Lines 741-751 in function routine
+----------------------------------------
+Instance ID: sympy__sympy-16988
+File: sympy/sets/sets.py
+Changes:
+  Lines 1260-1266 in function __new__
+----------------------------------------
+Instance ID: sympy__sympy-17022
+File: sympy/printing/pycode.py
+Changes:
+  Lines 608-620 in function _print_MatrixBase
+----------------------------------------
+Instance ID: sympy__sympy-17139
+File: sympy/simplify/fu.py
+Changes:
+  Lines 500-507 in function _f
+----------------------------------------
+Instance ID: sympy__sympy-17630
+File: sympy/matrices/expressions/matexpr.py
+Changes:
+  Lines 627-634 in function _postprocessor
+----------------------------------------
+Instance ID: sympy__sympy-17655
+File: sympy/geometry/point.py
+Changes:
+  Lines 278-287 in function __mul__
+----------------------------------------
+Instance ID: sympy__sympy-18057
+File: sympy/core/expr.py
+Changes:
+  Lines 121-127 in function _hashable_content
+----------------------------------------
+Instance ID: sympy__sympy-18087
+File: sympy/core/exprtools.py
+Changes:
+  Lines 358-365 in function __init__
+  Lines 448-459 in function as_expr
+----------------------------------------
+Instance ID: sympy__sympy-18189
+File: sympy/solvers/diophantine.py
+Changes:
+  Lines 182-188 in function diophantine
+----------------------------------------
+Instance ID: sympy__sympy-18199
+File: sympy/ntheory/residue_ntheory.py
+Changes:
+  Lines 2-8
+  Lines 743-790 in function _nthroot_mod1
+  Lines 814-825 in function nthroot_mod
+----------------------------------------
+Instance ID: sympy__sympy-18532
+File: sympy/core/basic.py
+Changes:
+  Lines 503-513 in function atoms
+----------------------------------------
+Instance ID: sympy__sympy-18621
+File: sympy/matrices/expressions/blockmatrix.py
+Changes:
+  Lines 301-307 in function blocks
+----------------------------------------
+Instance ID: sympy__sympy-18698
+File: sympy/polys/polytools.py
+Changes:
+  Lines 2-9
+  Lines 5906-5912 in function _symbolic_factor_list
+  Lines 5947-5955 in function _symbolic_factor_list
+----------------------------------------
+Instance ID: sympy__sympy-18835
+File: sympy/utilities/iterables.py
+Changes:
+  Lines 2088-2100 in function has_variety
+  Lines 2111-2137 in function uniq
+----------------------------------------
+Instance ID: sympy__sympy-19007
+File: sympy/matrices/expressions/blockmatrix.py
+Changes:
+  Lines 7-13
+  Lines 234-257 in function transpose
+----------------------------------------
+Instance ID: sympy__sympy-19254
+File: sympy/polys/factortools.py
+Changes:
+  Lines 124-187 in function dmp_trial_division
+----------------------------------------
+Instance ID: sympy__sympy-19487
+File: sympy/functions/elementary/complexes.py
+Changes:
+  Lines 394-402 in function _eval_rewrite_as_Heaviside
+----------------------------------------
+Instance ID: sympy__sympy-20049
+File: sympy/physics/vector/point.py
+Changes:
+  Lines 483-531 in function vel
+----------------------------------------
+Instance ID: sympy__sympy-20154
+File: sympy/utilities/iterables.py
+Changes:
+  Lines 1738-1743 in function partitions
+  Lines 1787-1795 in function partitions
+  Lines 1827-1835 in function partitions
+----------------------------------------
+Instance ID: sympy__sympy-20212
+File: sympy/core/power.py
+Changes:
+  Lines 291-298 in function __new__
+----------------------------------------
+Instance ID: sympy__sympy-20322
+File: sympy/core/mul.py
+Changes:
+  Lines 7-13
+  Lines 1262-1308 in function _eval_is_zero
+----------------------------------------
+Instance ID: sympy__sympy-20442
+File: sympy/physics/units/util.py
+Changes:
+  Lines 4-10
+  Lines 31-41 in function _get_conversion_matrix_for_expr
+----------------------------------------
+Instance ID: sympy__sympy-20590
+File: sympy/core/_print_helpers.py
+Changes:
+  Lines 17-27 in function __str__
+----------------------------------------
+Instance ID: sympy__sympy-20639
+File: sympy/printing/pretty/pretty.py
+Changes:
+  Lines 1902-1913 in function _print_Mul
+  Lines 1915-1927 in function _print_nth_root
+  Lines 1953-1961 in function _print_Pow
+----------------------------------------
+Instance ID: sympy__sympy-21055
+File: sympy/assumptions/refine.py
+Changes:
+  Lines 297-324 in function refine_im
+  Lines 401-407 in function refine_matrixelement
+----------------------------------------
+Instance ID: sympy__sympy-21171
+File: sympy/printing/latex.py
+Changes:
+  Lines 1968-1979 in function _print_DiracDelta
+----------------------------------------
+Instance ID: sympy__sympy-21379
+File: sympy/core/mod.py
+Changes:
+  Lines 40-46 in function eval
+  Lines 167-179 in function doit
+----------------------------------------
+Instance ID: sympy__sympy-21612
+File: sympy/printing/str.py
+Changes:
+  Lines 333-339 in function apow
+----------------------------------------
+Instance ID: sympy__sympy-21614
+File: sympy/core/function.py
+Changes:
+  Lines 1707-1716 in function free_symbols
+----------------------------------------
+Instance ID: sympy__sympy-21627
+File: sympy/functions/elementary/complexes.py
+Changes:
+  Lines 607-614 in function eval
+----------------------------------------
+Instance ID: sympy__sympy-21847
+File: sympy/polys/monomials.py
+Changes:
+  Lines 127-133 in function itermonomials
+  Lines 139-145 in function itermonomials
+----------------------------------------
+Instance ID: sympy__sympy-22005
+File: sympy/solvers/polysys.py
+Changes:
+  Lines 240-251 in function _solve_reduced_system
+----------------------------------------
+Instance ID: sympy__sympy-22714
+File: sympy/geometry/point.py
+Changes:
+  Lines 152-158 in function __new__
+----------------------------------------
+Instance ID: sympy__sympy-22840
+File: sympy/simplify/cse_main.py
+Changes:
+  Lines 567-573 in function tree_cse
+  Lines 587-596 in function _find_repeated
+----------------------------------------
+Instance ID: sympy__sympy-23117
+File: sympy/tensor/array/ndim_array.py
+Changes:
+  Lines 145-156 in function __new__
+  Lines 196-204 in function f
+  Lines 572-582 in function _check_special_bounds
+----------------------------------------
+Instance ID: sympy__sympy-23191
+File: sympy/printing/pretty/pretty.py
+Changes:
+  Lines 1144-1167 in function _print_BasisDependent
+----------------------------------------
+Instance ID: sympy__sympy-23262
+File: sympy/utilities/lambdify.py
+Changes:
+  Lines 956-964 in function _recursive_to_string
+----------------------------------------
+Instance ID: sympy__sympy-24066
+File: sympy/physics/units/unitsystem.py
+Changes:
+  Lines 190-198 in function _collect_factor_and_dimension
+----------------------------------------
+Instance ID: sympy__sympy-24102
+File: sympy/parsing/mathematica.py
+Changes:
+  Lines 654-660 in function _from_mathematica_to_tokens
+----------------------------------------
+Instance ID: sympy__sympy-24152
+File: sympy/physics/quantum/tensorproduct.py
+Changes:
+  Lines 246-257 in function _eval_expand_tensorproduct
+----------------------------------------
+Instance ID: sympy__sympy-24213
+File: sympy/physics/units/unitsystem.py
+Changes:
+  Lines 175-181 in function _collect_factor_and_dimension
+----------------------------------------
+Instance ID: sympy__sympy-24909
+File: sympy/physics/units/prefixes.py
+Changes:
+  Lines 6-12
+  Lines 85-93 in function __mul__
+  Lines 103-109 in function __truediv__
+----------------------------------------
